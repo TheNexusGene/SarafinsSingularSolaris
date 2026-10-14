@@ -1,0 +1,12 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "name": "HyperTerminal Polyglot OS",
+  "description": "Polyglot terminal and root execution sandbox with tabbed multi-panel workstation, bottom peek/hide instances drawer, VFS file explorer, autonomous Gemini environment manipulation, macro recorder, and live telemetry.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
